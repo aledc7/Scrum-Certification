@@ -64,10 +64,10 @@ Scrum divididad en 3 aspectos:
 ### Principios de Scrum: 
 Bases y valores no negociables para lograr los objetivos. Deben implementarse obligatoriamente.   
 
-### Aspectos: 
+### Aspectos: 
 Es la visión transversal, que deben ser aborados y administrados a lo largo del proyecto.   
 
-### Procesos: 
+### Procesos: 
 Elementos que nos permitirán desarrollar el Scrum. Consta de 19 procesos, agrupados en 5 fases:
 - Inicio
 - Planeación y estimación
