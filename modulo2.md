@@ -27,6 +27,9 @@ Para escalar Scrum en grandes proyectos y empresas que requieran de la coordinac
 
 ## Flujo Scrum:
 
+
+[Flujo del Scrum](https://raw.githubusercontent.com/aledc7/Scrum-Certification/master/recursos/Flujo%20del%20Scrum.png)
+
 __Caso de negocio del proyecto:__   
 viene del negocio o PO. Documento que describirá necesades, beneficios, parte financiera. El inicio del proyecto.  
 
