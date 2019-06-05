@@ -1,6 +1,6 @@
-# Scrum-Certification
+# Scrum-Certification  <img src="https://github.com/aledc7/Scrum-Certification/blob/master/recursos/logo-scrum.png" width="200">
 
-[![](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/logo-scrum.png)]()
+
 
 
 [![aledc.com](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/aledc.com.svg)](https://aledc.com)
