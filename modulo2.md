@@ -69,20 +69,27 @@ Todo el trabajo realizado, debe estar sujeto a verificación. Uso de Scrum Board
 Se cree en el crecimiento a través de experiencia/resultado. Las decisiones se basan en la observación y la experimentación.   
 
 __Auto-Organización:__  
-Los colaboradores se auto-motivan y buscan aceptar las responsabilidades como equipo. No significa que los miembros del equipo, actúen como quieran, dado que existe una madurez personal y profesional, para llevar a cabo las tareas en conjunto.    
-Las metas del equipo auto-organizado.    
+Los colaboradores se auto-motivan y buscan aceptar las responsabilidades como equipo. No significa que los miembros del equipo, actúen como quieran, dado que existe una madurez personal y profesional, para llevar a cabo las tareas en conjunto.  
+Las metas del equipo auto-organizado.  
+
 __Comprender la visión del proyecto:__   
 Tener claridad del objetivo.    
+
 __Aprovechar el conocimiento de un equipo multifuncional:__   
 Puede haber cambio de roles.   
+
 __Buscar trabajo proactivamente:__   
 Foco en las actividades.   
+
 __Hacer el trabajo por sí mismo:__   
 Cada uno trabajar para el equipo.   
+
 __Estar abierto a nuevos aprendizajes:__   
-Flexibilidad debido al dinamismo actual.   
+Flexibilidad debido al dinamismo actual.  
+
 __Continuamente actualizar conocimientos y habilidades:__   
 Avanzar en nueva información.   
+
 __Entregar resultados tangibles:__   
 Objetivos medibles por el cliente.    
 
