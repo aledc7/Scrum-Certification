@@ -11,7 +11,13 @@
 El propósito de este curso es ver SCRUM como un marco de trabajo aplicado a cualquier industria. Veremos los principios, aspectos y procesos de esta metodología ágil y cómo aplicarla a cualquier proyecto.
 
 ## Glosario:
-Este curso cuenta con un [Glosario](https://github.com/aledc7/Scrum-Certification/blob/master/glosario.md) con toda la terminología empleada. 
+Este curso cuenta con un [Glosario](https://github.com/aledc7/Scrum-Certification/blob/master/glosario.md) con toda la terminología empleada.
+
+## Bibliografía:
+
+La certificación cuenta con estos libros en PDF
+[Scrum Sbook Guide](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/scrumstudy-sbok-guide-3rd-edition-spanish_.pdf)
+[Scrum Slides](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/ScrumSlides.pdf)
 
 
 
