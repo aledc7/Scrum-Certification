@@ -1,1 +1,3 @@
-# Aqui van todos los recursos
+# Bibliografía de la Certificación
+
+## Aquí encontraras los Libros y Apuntes 
