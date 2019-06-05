@@ -29,9 +29,9 @@ __Dev team:__
 
 ## No centrales:
 
-__Stakeholders:__ 
+__Stakeholders:__   
 - Son los interesados o quienes tienen influencias en el resultado del proyecto.
-__Scrum guidance:__
-- Guía que permitirá seguir el Scrum.
-__Proveedores:__ 
+__Scrum guidance:__   
+- Guía que permitirá seguir el Scrum.  
+__Proveedores:__   
 - Terceros que ofrecen productos/servicios, pero no tienen relaciones directas con el proyecto.
