@@ -1,10 +1,7 @@
 # Scrum-Certification
 
 
-
-
-
-[<img src="https://github.com/aledc7/PHP-Certification/blob/master/aledc-logo.png?raw=true">](https://aledc.com)
+[![aledc.com](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/aledc.com.svg)](https://aledc.com)
 [![GitHub release](https://img.shields.io/github/release/nhsevidence/nice-icons.svg)](https://github.com/nhsevidence/nice-icons/releases/latest)
 [![License](https://img.shields.io/github/license/nhsevidence/nice-icons.svg)](https://github.com/nhsevidence/nice-icons/blob/master/LICENSE)
 [![Dependencies](https://img.shields.io/david/nhsevidence/nice-icons.svg)](https://david-dm.org/nhsevidence/nice-icons)
