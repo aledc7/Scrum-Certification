@@ -52,11 +52,6 @@ __Ambiente innovador:__ Genera instrospección, aprendizaje, creatividad y adapt
 
 
 
-
-
-
-
-
 ## Metodologías ágiles:
 
 - Ciclo de vida iterativo (por ciclos) e incremental: descomposición de objetivo final, en pequeñas porciones.
@@ -67,7 +62,33 @@ __Ambiente innovador:__ Genera instrospección, aprendizaje, creatividad y adapt
 
 
 
-## Principios
+## Los principios, aspectos, fases y procesos de SCRUM
+
+Scrum divididad en 3 aspectos:
+### Principios de Scrum: 
+Bases y valores no negociables para lograr los objetivos. Deben implementarse obligatoriamente.   
+
+### Aspectos: 
+Es la visión transversal, que deben ser aborados y administrados a lo largo del proyecto.   
+
+### Procesos: 
+Elementos que nos permitirán desarrollar el Scrum. Consta de 19 procesos, agrupados en 5 fases:
+- Inicio
+- Planeación y estimación
+- Implementación
+- Revisión y retrospectiva
+- Lanzamiento
+
+Para escalar Scrum en grandes proyectos y empresas que requieran de la coordinación de múltiples equipos, existen 8 procesos adicionales.
+
+Flujo Scrum:
+
+Caso de negocio del proyecto: viene del negocio o PO. Documento que describirá necesades, beneficios, parte financiera. El inicio del proyecto.
+Visión del proyecto: El objetivo será buscar la manera en que se desarrollará el producto/servicio.
+Backlog: Será el objetivo del proyecto. Puede cambiar.
+Cronograma del lanzamiento: Comienzo el diseño de los sprint. Será informativo para el cliente, relativo a las fechas.
+Sprint backlog: Se descomponen las épicas para crear una lista de trabajo. Identificando las actividades. Se elaboran los entregables.
+Entregables aceptados: Resultado al PO y entran al plan de liberación.
 
 - Los principios son la base de Scrum.  
 - Se pueden aplicar en cualquier tipo de proyecto.  
@@ -92,9 +113,3 @@ Estar abierto a nuevos aprendizajes: Flexibilidad debido al dinamismo actual.
 Continuamente actualizar conocimientos y habilidades: Avanzar en nueva información.
 Entregar resultados tangibles: Objetivos medibles por el cliente.
 
-Colaboración: Siempre debe haber integración y sinergia en cada uno de los miembros de un equipo, buscando soluciones útiles y constructivas, cooperando para lograr resultados de manera conjunta. No individual. Aprovechar una característica individual, para potenciar la fortaleza del equipo.
-Dimensiones centrales del trabajo colaborativo:
-
-Conocimiento: Fuente de información que debe ser compartida.
-Articulación: Permite cooperar.
-Apropiación: Hacer nuestro el ánimo de colaborar.
