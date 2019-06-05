@@ -22,11 +22,11 @@ La certificación cuenta con estos libros en PDF
 
 
 ## Que es Scrum
-Es un marco de trabajo que nos proporciona una serie de herramientas y roles para de forma iterativa poder ver el progreso y los resultados de un proyecto de forma temprana.   
-Es un framework para la gestión de proyectos, adaptable, iterativo, rápido, flexible y eficaz.   
-Diseñado para ofrecer un valor considerable de forma rápida a lo largo del proyecto.   
-Garantiza la transparencia: crea responsabilidad colectiva a través de buena comunicación.   
-Está estructurado de manera que sea compatible con el desarrollo de productos/servicios en todo tipo de industrias, proyectos, independientemente de su complejidad.
+- Es un marco de trabajo que nos proporciona una serie de herramientas y roles para de forma iterativa poder ver el progreso y los resultados de un proyecto de forma temprana.     
+- Es un framework para la gestión de proyectos, adaptable, iterativo, rápido, flexible y eficaz.    
+- Diseñado para ofrecer un valor considerable de forma rápida a lo largo del proyecto.   
+- Garantiza la transparencia: crea responsabilidad colectiva a través de buena comunicación.   
+- Está estructurado de manera que sea compatible con el desarrollo de productos/servicios en todo tipo de industrias, proyectos, independientemente de su complejidad.  
 
 
 
