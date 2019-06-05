@@ -26,9 +26,9 @@ El __Product Owner__ será el responsable de la priorización.
 Requerimientos de alto valor son identificados al principio(top) del backlog priorizado del producto.   
 Al priorizar las historias de usuarios en el backlog priorizado del producto, se deben considerar los 3 siguientes factores:
 
-__Valor__
-__Riesgo__
-__Dependencia__ 
+__Valor__   
+__Riesgo__   
+__Dependencia__    
 
 
 ## Time-boxing (o asignación de un bloque de tiempo):
