@@ -15,9 +15,9 @@ Este curso cuenta con un [Glosario](https://github.com/aledc7/Scrum-Certificatio
 
 ## Bibliografía:
 
-La certificación cuenta con estos libros en PDF
-[Scrum Sbook Guide](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/scrumstudy-sbok-guide-3rd-edition-spanish_.pdf)
-[Scrum Slides](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/ScrumSlides.pdf)
+La certificación cuenta con estos libros en PDF   
+[Scrum Sbook Guide](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/scrumstudy-sbok-guide-3rd-edition-spanish_.pdf)    
+[Scrum Slides](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/ScrumSlides.pdf)    
 
 
 
