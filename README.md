@@ -1,5 +1,4 @@
-# Scrum-Certification  
-<img src="https://github.com/aledc7/Scrum-Certification/blob/master/recursos/logo-scrum.png" width="100">
+# Scrum-Certification  <img src="https://github.com/aledc7/Scrum-Certification/blob/master/recursos/logo-scrum.png" width="80">
 
 
 
