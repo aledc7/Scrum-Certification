@@ -1,4 +1,5 @@
-# Scrum - Modulo 3
+# SCRUM - Modulo 3
+## Flujo de Trabajo
 
 [![aledc.com](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/aledc.com.svg)](https://aledc.com)
 [![License](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/mit-license.svg)](https://aledc.com)
@@ -6,7 +7,7 @@
 [![Dependencies](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/dependencias-none.svg)](https://aledc.com)
 
 
-### Principio de colaboración:
+### Principio de Colaboración:
 
 Beneficio y valor:
 Stakeholder (interesados) y Product Owner / Scrum Master y equipo Scrum.
