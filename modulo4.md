@@ -8,26 +8,47 @@
 
 ## Organización:
 
-Dividio en 2 roles:
+
 
 ## Centrales:
+
+## Scrum cuenta con tres Roles Centrales, analizaremos cada uno.
+
+![Roles Centrales](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/Roles%20Centrales.png?raw=true)
+
+
+
+# Rol de Product Owner:
+![Product Owner](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/Product%20Owner.png?raw=true)
+
+
 __Product Owner:__
 - Siempre disponible.
 - Responsable de lograr máximo valor del negocio en el proyecto.
 - Articula requerimientos del cliente.
 - Mantiene la justificación del negocio para el proyecto y representa la voz del cliente.
 
-__Scrum master:__
+# Rol de Scrum Master:
+![Scrum Master](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/Scrum%20Master.png?raw=true)
+
+
+__Scrum Master:__
 - Facilita sesiones y elimina obstáculos. 
 - Se asegura de garantizar el ambiente productivo.
 - Se asegura que los procesos se estén llevando a cabo.
 
-__Dev team:__
+
+# Rol del Dev TEAM
+![Scrum TEAM](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/Scrum%20TEAM.png?raw=true)
+
+
+__Dev TEAM:__
 - Autónono, autoregulado, multidisciplinado, equipo pequeño, propósito es entregar valor al cliente.
 - Responsable de entender los requerimientos. 
 - Comunicación con el Product Owner.
 
-## No centrales:
+
+## Roles No centrales:
 
 __Stakeholders:__   
 - Son los interesados o quienes tienen influencias en el resultado del proyecto.
