@@ -70,12 +70,20 @@ Terceros que nos ofrecen Productos o Servicios fuera del Proyecto.
 
 
 
-# Entrega basada en valor
+# Entrega basada en Valor
+
+Las entregas deben basarse en el agregado de Valor al negocio del cliente final
+
 ![Entrega Basada en Valor](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/Entrega%20basada%20en%20Valor.png?raw=true)
 
 
 
+
+
 # Scrum vs Tradicional
+
+Esta imágen compara la metodología SCRUM con las metodologías tradicionales.
+
 ![Scrum Vs Tradicional](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/Scrum%20vs%20Tradicional.png?raw=true)
 
 
