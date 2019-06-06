@@ -7,7 +7,9 @@
 
 
 
-# Equipo principal de Scrum
+### Equipo principal de Scrum
+
+El siguiente esquema muestra como es la interacción entre el Equipos SCRUM y el cliente.
 
 ![Equipo Scrum](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/Equipo%20Scrum.png?raw=true)
 
