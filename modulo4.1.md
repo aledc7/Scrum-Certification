@@ -22,7 +22,7 @@
 - El eqipo SCRUM también alerta al product owner sobre las dependencias que surgen de la implementación.
 - Al priorizar las historias de usuario en el backlog priorizado del producto se consideran los siguientes 3 factores: Valor, Riesgo ,Dependencia
 
-# Time-boxing
+## Time-boxing
 
 - SCRUM trata al tiempo como uno de los limitante mas importantes en la gestion de un Proyecto.
 - Time-boxing propone la fijacion de una cierta cantidad de tiempo para cada proceso y actividad en un proyecto SCRUM.
@@ -50,7 +50,7 @@
 - Permite la correcion a medida que todas las persona involucradas obtengan una mejor comprension de lo que se debe entregar como parte del proyecto, e incorporar lo aprendido de manera iterativa.
 - El tiempo y el esfuerzo requerido para alcanzar el punto final definitivo se reduce y se producen entregables que se adaptan mejor.
 
-# Lista priorizada de pendientes del producto (Prioritized Product Backlog)
+## Lista priorizada de pendientes del producto (Prioritized Product Backlog)
 
 La lista priorizada de pendientes del producto (del inglés: Prioritized Product Backlog) es un solo documento de requisitos que define el ámbito del proyecto, proporcionando __una lista de priorizada__ de las características del producto o servicio que habrá de entregar el proyecto.
 
