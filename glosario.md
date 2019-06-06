@@ -350,11 +350,11 @@ entregables a partir de las tareas mencionadas en la lista de tareas.
 Las solicitudes de cambios aprobadas son los cambios que han sido aprobados para incluirse en la lista priorizada de pendientes del producto. En ocasiones, las solicitudes de cambio aprobadas pueden presentarlos los gerentes del programa o de la cartera, y serían entradas que se añadirán a la lista de cambios autorizados del proyecto para su implementación en futuros sprints.
 
 ### Solicitud de cambio
-Las peticiones para realizar cambios generalmente se presentan como solicitudes de cambio. Dichas solicitudes permanecen como no aprobadas has que se autorizan formalmente.
+Las peticiones para realizar cambios generalmente se presentan como solicitudes de cambio. Dichas solicitudes permanecen como no aprobadas has que se autorizan formalmente.   
 
 ### Solicitudes de cambio no aprobadas
 Las peticiones de cambio se presentan por lo general como solicitudes de cambio. Estas permanecen no
-aprobadas hasta que se autorizan formalmente.
+aprobadas hasta que se autorizan formalmente.   
 
 ### Scrum Master
 El Scrum Master es uno de los roles en el equipo principal de Scrum. Él o ella facilitan la creación de
@@ -373,13 +373,15 @@ Socio (del inglés: stakeholder) es un término colectivo que incluye a clientes
 ### Tres preguntas diarias
 Las tres preguntas diarias se utilizan en las reuniones diarias de pie, organizadas por el Scrum Master,
 donde cada miembro del equipo Scrum brinda información en forma de respuesta a tres preguntas
-específicas:
+específicas:   
 
-¿Qué terminé ayer?
-¿Qué terminaré hoy?
-¿Qué impedimentos u obstáculos (si los hubiera) estoy enfrentando en la actualidad?
-Transparencia
-La transparencia permite que todas las facetas de cualquier proceso de Scrum puedan ser observadas por cualquiera. Compartir toda la información conduce a un ambiente de alta confianza.
+- ¿Qué terminé ayer?   
+- ¿Qué terminaré hoy?
+- ¿Qué impedimentos u obstáculos (si los hubiera) estoy enfrentando en la actualidad?   
+
+### Transparencia
+La transparencia permite que todas las facetas de cualquier proceso de Scrum puedan ser observadas por cualquiera.   
+Compartir toda la información conduce a un ambiente de alta confianza.
 
 ### Usuario
 Los usuarios son los individuos o la organización que utiliza directamente el producto del proyecto, el
