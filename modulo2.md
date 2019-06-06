@@ -6,7 +6,7 @@
 
 
 
-## Los principios, aspectos, fases y procesos de SCRUM
+## Principios, Aspectos, Fases y Procesos de SCRUM
 
 Scrum divididad en 3 aspectos:
 ### Principios de Scrum: 
