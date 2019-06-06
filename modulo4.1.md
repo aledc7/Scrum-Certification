@@ -40,23 +40,25 @@
 - Iteraciones por definición parcial de alcance.
 - Modelo flexible para soportar los cámbios.
 
-¿Como funciona? Descomposicion
-Las historias de usuario tal vez tengan que ser escritas constantemente durante el proyecto
-Estas historias de usuarios se conocen como epica(s). Las epicas son muy grandes y se dividen en pequeñas historias de usuario
-Cada aspecto complejo del proyecto se divide durante el proceso refinar el backlog priorizado del producto
-En cada sprint, el proceso de crear entregables se utliza para desarrollar las salidas del sprint, El SCRUM Master garantiza que se sugan los procesos y facilita el equipo de trabajo
-El equipo SCRUM se auto-organiza, teniendo como objetico el crear entregables del sprint a partir de las historias de usuario que estan en el sprint backlog
-En grandes proyectos, varios equipos interfuncionales trabajan en paralelo a través de los sprints, proporcionando soluciones potencialmente entregables al final de cada sprint
-Despues de completar cada sprint, el product owner acepta o rechaza los entregables con base a los criterios de aceptacion del proceso de demostrar y validar el sprint
-Beneficios
-Permite la correcion a medida que todas las persona involucradas obtengan una mejor comprension de lo que se debe entregar como parte del proyecto, e incorporar lo aprendido de manera iterativa
-El tiempo y el esfuerzo requerido para alcanzar el punto final definitivo se reduce y se producen entregables que se adaptan mejor
 
-Lista priorizada de pendientes del producto (Prioritized Product Backlog)
-La lista priorizada de pendientes del producto (del inglés: Prioritized Product Backlog) es un solo documento de requisitos que define el ámbito del proyecto, proporcionando una lista de priorizada de las características del producto o servicio que habrá de entregar el proyecto.
-Creación de historias de usuario
-En este proceso se crean las historias de usuario y sus respectivos criterios de aceptación. Las historias de usuario generalmente las redacta el propietario del producto y están diseñadas para garantizar que los requerimientos del cliente estén claramente representados y puedan ser plenamente comprendidos por todos los socios.
-Épica(s)
+- En cada Sprint, el proceso de crear entregables se utliza para desarrollar las salidas del Sprint. 
+- El equipo SCRUM se auto-organiza, teniendo como objetico el crear entregables del sprint a partir de las historias de usuario que estan en el sprint backlog.
+- En grandes proyectos, varios equipos interfuncionales trabajan en paralelo a través de los sprints, proporcionando soluciones potencialmente entregables al final de cada Sprint.
+- Despues de completar cada sprint, el Product Owner acepta o rechaza los entregables con base a los criterios de aceptacion del proceso de demostrar y validar el Sprint.
+
+## Beneficios
+- Permite la correcion a medida que todas las persona involucradas obtengan una mejor comprension de lo que se debe entregar como parte del proyecto, e incorporar lo aprendido de manera iterativa.
+- El tiempo y el esfuerzo requerido para alcanzar el punto final definitivo se reduce y se producen entregables que se adaptan mejor.
+
+# Lista priorizada de pendientes del producto (Prioritized Product Backlog)
+
+La lista priorizada de pendientes del producto (del inglés: Prioritized Product Backlog) es un solo documento de requisitos que define el ámbito del proyecto, proporcionando __una lista de priorizada__ de las características del producto o servicio que habrá de entregar el proyecto.
+
+## Creación de historias de usuario
+En este proceso se crean las historias de usuario y sus respectivos criterios de aceptación.  
+Las historias de usuario generalmente las redacta el propietario del Producto y están diseñadas para garantizar que los requerimientos del cliente estén claramente representados y puedan ser plenamente comprendidos por todos los socios.
+
+## Épica(s)
 Las épicas se escriben en las etapas iniciales del proyecto cuando la mayoría de las historias de usuario son funcionalidades de alto nivel o descripciones del producto y cuando se definen ampliamente los
 requerimientos y descripciones del mismo. Son historias de usuario amplias y sin refinar que se incluyen en la lista priorizada de pendientes del producto.
 
