@@ -46,7 +46,7 @@
 - En grandes proyectos, varios equipos interfuncionales trabajan en paralelo a través de los sprints, proporcionando soluciones potencialmente entregables al final de cada Sprint.
 - Despues de completar cada sprint, el Product Owner acepta o rechaza los entregables con base a los criterios de aceptacion del proceso de demostrar y validar el Sprint.
 
-## Beneficios
+## Beneficios
 - Permite la correcion a medida que todas las persona involucradas obtengan una mejor comprension de lo que se debe entregar como parte del proyecto, e incorporar lo aprendido de manera iterativa.
 - El tiempo y el esfuerzo requerido para alcanzar el punto final definitivo se reduce y se producen entregables que se adaptan mejor.
 
