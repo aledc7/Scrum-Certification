@@ -62,3 +62,7 @@ Se adapta a cualquier tipo de desarrollo de producto/servicio:
 - Entregar prototipos pequeños evolutivos.
 - Con funcionalidades añadidas en cada iteración.
 - Refinado y refactorizando: es necesario el feedback del cliente.
+
+
+
+[ir al módulo 2 ->](https://github.com/aledc7/Scrum-Certification/blob/master/modulo2.md)
