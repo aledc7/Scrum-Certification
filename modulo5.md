@@ -1,4 +1,4 @@
-# Scrum - Modulo 4
+# Scrum - Modulo 5
 ## La organización y los diferentes roles de Scrum.
 [![aledc.com](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/aledc.com.svg)](https://aledc.com)
 [![License](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/mit-license.svg)](https://aledc.com)
@@ -54,4 +54,4 @@ __Proveedores:__
 - Terceros que ofrecen productos/servicios, pero no tienen relaciones directas con el proyecto.
 
 
-[Go to Chapter 5 ->](https://github.com/aledc7/Scrum-Certification/blob/master/modulo5.md)
+[Go to Chapter 6 ->](https://github.com/aledc7/Scrum-Certification/blob/master/modulo6.md)
