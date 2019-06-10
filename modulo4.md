@@ -52,3 +52,6 @@ __Scrum Guidance:__
 
 __Proveedores:__   
 - Terceros que ofrecen productos/servicios, pero no tienen relaciones directas con el proyecto.
+
+
+[Go to Chapter 5 ->](https://github.com/aledc7/Scrum-Certification/blob/master/modulo5.md)
