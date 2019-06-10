@@ -39,4 +39,6 @@ Los riesgos con una alta probabilidad y valor de impacto (que se calcula multipl
 - La entrega iterativa reduce el riesgo de inversión.
 
 # Proceso de priorizacion de Riesgos
-Riesgos priorizados + Riesgos identificados (para mitigar) + Backlog priorizado del producto = Backlog priorizado del producto (actualizado)
+- Riesgos priorizados
+- Riesgos identificados (para mitigar) 
+- Backlog priorizado del producto = Backlog priorizado del producto (actualizado)
