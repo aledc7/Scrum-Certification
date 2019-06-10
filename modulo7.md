@@ -51,3 +51,5 @@ Un principio fundamental de SCRUM es el reconocimiento de :
 - Es muy dificil, si no es que imposible, que los Stakeholders definan todos los requisitos al inicio del proyecto.
 - Los Proyectos SCRUM aceptan los cambios mediante el uso de los sprints breves e iterativos que incorporan la retroalimientación del Cliente sobre los entregables del Proyecto después de cada Sprint.
 - Esto permite que el Cliente interactue regularmente con los miembros del equipo SCRUM, que vea los entregables a medida que esten listos y que cambie los requisitos tempranamente en el ciclo de desarrollo.
+
+[Go to Module ->8](https://github.com/aledc7/Scrum-Certification/blob/master/modulo8.md)
