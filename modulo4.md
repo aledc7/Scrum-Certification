@@ -62,3 +62,5 @@ Las historias de usuario generalmente las redacta el propietario del Producto y 
 Las épicas se escriben en las etapas iniciales del proyecto cuando la mayoría de las historias de usuario son funcionalidades de alto nivel o descripciones del producto y cuando se definen ampliamente los
 requerimientos y descripciones del mismo. Son historias de usuario amplias y sin refinar que se incluyen en la lista priorizada de pendientes del producto.
 
+[Go to Chapter ->5](https://github.com/aledc7/Scrum-Certification/blob/master/modulo5.md)
+
