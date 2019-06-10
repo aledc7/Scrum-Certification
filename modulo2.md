@@ -93,3 +93,4 @@ Avanzar en nueva información.
 __Entregar resultados tangibles:__   
 Objetivos medibles por el cliente.    
 
+[Go to chapter 3 ->](https://github.com/aledc7/Scrum-Certification/blob/master/modulo3.md)
