@@ -42,3 +42,5 @@ Los riesgos con una alta probabilidad y valor de impacto (que se calcula multipl
 - Riesgos priorizados
 - Riesgos identificados (para mitigar) 
 - Backlog priorizado del producto = Backlog priorizado del producto (actualizado)
+
+[Go to Modulo ->9](https://github.com/aledc7/Scrum-Certification/blob/master/modulo9.md)
