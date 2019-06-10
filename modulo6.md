@@ -90,7 +90,7 @@ Esta imágen compara la metodología SCRUM con las metodologías tradicionales.
 
 
 
-
+[Go to Modulo 7 ->](https://github.com/aledc7/Scrum-Certification/blob/master/modulo7.md)
 
 
 
