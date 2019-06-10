@@ -55,3 +55,5 @@ __Dependencia__
 
 - Permite corrección a la medida.   
 - Tiempo y esfuerzo se reducen para alcanzar el objetivo final.   
+
+[go to Chapter 4 ->](https://github.com/aledc7/Scrum-Certification/blob/master/modulo4.md)
