@@ -44,11 +44,14 @@
 	- Retrospectiva del Proyect	
 
 ![Fase de Lanzamiento](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/09/05%20-%20EntregableRetrospectiva.png?raw=true)
+__________________________________________________________________________________________________
+
 
 ## Grafico Resumido del Ciclo completo.
 
 ![Ciclo Completo](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/09/06.png?raw=true)
 
+__________________________________________________________________________________________________
 
 ## RESUMEN DE TODO EL PROCESO
 
