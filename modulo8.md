@@ -40,6 +40,7 @@ Los riesgos con una alta probabilidad y valor de impacto (que se calcula multipl
 - La transparencia reduce el riesgo de no detección.
 - La entrega iterativa reduce el riesgo de inversión.
 
+![Priorización](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/08/02%20-%20Priorizacion%20de%20Riesgos.png?raw=true)
 # Proceso de priorizacion de Riesgos
 - Riesgos priorizados
 - Riesgos identificados (para mitigar) 
