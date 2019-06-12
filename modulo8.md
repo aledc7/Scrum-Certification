@@ -30,6 +30,8 @@ El riesgo se define como un evento incierto o serie de eventos que pueden afecta
 
 Los riesgos con una alta probabilidad y valor de impacto (que se calcula multiplicando ambos factores) deben ser atendidos primero que aquellos con un valor relativamente bajo.
 
+![Minimizar el Riesgo](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/08/01%20-%20minimizar.png?raw=true)
+
 # Minimizar el riesgo por medio de SCRUM
 
 - La flexibilidad reduce el riesgo relacionado al entorno Empresarial.
