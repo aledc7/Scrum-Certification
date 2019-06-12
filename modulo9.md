@@ -7,6 +7,7 @@
 
 
 
+![Fase de Inicio](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/09/01%20-%20inicio.png?raw=true)
 
 1. Fase de Inicio:
 	- Crear la Visión del Proyecto
@@ -16,21 +17,34 @@
 	- Crear el Backlog priorizado del Producto
 	- Planificar el lanzamiento
 	
-	
-2. Fase de Planificación y estimación
+![Fase de Planificación y Estimación](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/09/02%20-%20PlanificacionEstimacion.png?raw=true)
+
+2. Fase de Planificación y Estimación
 	- Crear historias de Usuario
 	- Estimar historias de Usuario
 	- Comprometer historias de Usuario
 	- Identificar tareas
 	- Estimar tareas
 	- Crear el Sprint Backlog
+![Fase de Implementación](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/09/03%20-%20Implementacion.png?raw=true)
 3. Fase de Implementación
 	- Crear Entregables
 	- Realizar Daily Standup
 	- Refinar el Backlog priorizado del Producto
+![Fase de Revisión y Retrospectiva](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/09/04%20-%20RevisionRetrospectiva.png?raw=true)
 4. Fase de Revisión y Retrospectiva
 	- Demostrar y validar el Sprint
 	- Retrospectiva del Sprint
+![Fase de Lanzamiento](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/09/05%20-%20EntregableRetrospectiva.png?raw=true)
 5. Fase de Lanzamiento
 	- Enviar Entregables
-	- Retrospectiva del Proyecto
+	- Retrospectiva del Proyect	
+
+## Grafico Resumido del Ciclo completo.
+
+![Ciclo Completo](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/09/06.png?raw=true)
+
+
+## RESUMEN DE TODO EL PROCESO
+
+![Resumen del Proceso](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/09/07%20-%20Procesos.png?raw=true)
