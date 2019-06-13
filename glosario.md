@@ -67,7 +67,63 @@ En este proceso, las historias aprobadas, estimadas y asignadas se dividen en ta
 compilan en una lista de tareas. Para tales efectos, generalmente se lleva a cabo una reunión de
 planificación de tareas.
 
-### Creación de historias de usuario
+
+## Historias de Usuariio
+
+Descripción de una funcionalidad que debe incorporar un Sistema de Software, y cuya implementación aporta valor al cliente.
+La estructura de una historia de usuario está formada por:
+
+  - Nombre breve y descriptivo.
+  - Descripción de la funcionalidad en forma de diálogo o monólogo del usuario describiendo la funcionalidad que desea realizar.
+  - Criterio de validación y verificación que determinará para considerar terminado y aceptable por el cliente el desarrollo de la funcionalidad descrita.
+  - Y adicionalmente por la información que resulte necesaria por el modelo de implementación: Prioridad, Riesgo, Tamaño, etc.
+
+_________________________________________________________________________________________________________________________
+
+## INVEST
+En 2003 Bill Wake desarrolló un método llamado __INVEST__ para asegurar la Calidad en la escritura de __Historias de Usuario.__ El método sirve para comprobar la calidad de una historia de usuario revisando que cumpla una serie de características:
+
+ I - Independent (independiente)
+ N - Negotiable (negociable)
+ V - Valuable (valiosa)
+ E - Estimable (estimable)
+ S - Small (pequeña)
+ T - Testable (comprobable)
+
+## Independent (independiente)
+
+Es ventajoso que cada Historia de Usuario pueda ser planificada e implementada en cualquier orden. Para ello las historias deberían de ser totalmente independientes (lo cual facilita el trabajo posterior del equipo). Resaltar que las dependencias entre historias de usuario pueden reducirse combinándolas en una o dividiéndolas de manera diferente.
+
+## Negotiable (negociable)
+
+Una historia de usuario es una descripción corta de una necesidad que no incluye detalles. Las historias deben ser negociables ya que sus detalles serán acordados con el cliente o el usuario durante la fase de conversación. Por tanto, se debe evitar historias de usuario con demasiados detalles porque limitaría la conversación acerca de las mismas.
+
+## Valuable (valiosa)
+
+Una historia de usuario tiene que ser valiosa para el cliente o el usuario. Una manera de hacer una historia valiosa es que la escriba el mismo.
+
+## Estimable (estimable)
+
+Una buena historia de usuario debe de poder ser estimada con la precisión suficiente para ayudar al cliente, usuario o propietario del producto a priorizar y planificar su implementación. La estimación generalmente la realizará el equipo de trabajo y está directamente relacionada con el tamaño de la historia de usuario (una historia de usuario de gran tamaño es más difícil de estimar) y con el conocimiento del equipo de la necesidad expresada (en el caso de falta de conocimiento, serán necesarias mas fases de conversación acerca de la misma).
+
+## Small (pequeña)
+
+Las historias de usuario deberían englobar como mucho unas pocas semanas/persona de trabajo. Incluso hay equipos que las restringen a días/persona. Una descripción corta ayuda a disminuir el tamaño de una historia de usuario facilitando así su estimación.
+
+## Testable (comprobable)
+
+La historia de usuario debería ser capaz de ser probada (fase confirmación de la historia de usuario). Si el cliente o usuario no sabe como probar la historia de usuario significa que no es del todo clara o que no es valiosa. Si el equipo no puede probar una historia de usuario nunca sabrá si la ha terminado o no.
+
+_________________________________________________________________________________________________________________________
+
+
+
+## Epicas
+
+Se denomina Epic a una __Historia de Usuario__ que por su __Gran Tamaño__, el equipo descompone en historias con un tamaño más adecuado para ser gestionada con los principios y técnicas ágiles: estimación y seguimiento cercano (normalmente diario).
+
+
+## Creación de historias de usuario
 En este proceso se crean las historias de usuario y sus respectivos criterios de aceptación. Las historias de
 usuario generalmente las redacta el propietario del producto y están diseñadas para garantizar que los
 requerimientos del cliente estén claramente representados y puedan ser plenamente comprendidos por
@@ -159,14 +215,14 @@ sobre tendencias del mercado, segmentación del mercado y procesos de comerciali
 La fase de implementación incluye los procesos relacionados con la ejecución de las tareas y actividades
 para crear un producto de un proyecto.
 
-### ase inicial
+### Fase inicial
 Esta fase se compone de los procesos relacionados a la iniciación de un proyecto: Creación de la visión del producto, identificación del Scrum Master y socios, formación del equipo Scrum, desarrollo de épica(s), creación de la lista priorizada de pendientes del producto y realizar la planificación del lanzamiento.
 
 ### Fase de planificación y estimación
 La fase de planificación y estimación se compone de los procesos relacionados a la planificación y
 estimación de tareas, que incluyen: la creación de historias de usuario, aprobación, estimación y asignación de historias de usuario, creación de tareas, estimación de tareas y creación de la lista de pendientes del sprint.
 
-### Formación de un equipo Scrum
+### Formación de un Equipo SCRUM
 Durante este proceso se identifican a los miembros del equipo Scrum. Normalmente, el propietario del
 producto es el responsable principal de seleccionar a los miembros del equipo, aunque generalmente lo
 lleva a cabo en colaboración con el Scrum Master.
@@ -175,11 +231,11 @@ lleva a cabo en colaboración con el Scrum Master.
 La función de utilidad es un modelo utilizado para medir la preferencia del socio por el riesgo o su actitud
 hacia el riesgo. Esto define el nivel del socio para aceptar riesgos.
 
-### Gestión de calidad
+### Gestión de Calidad
 En Scrum, la gestión de calidad permite a los clientes conocer cualquier problema en forma anticipada en
 un proyecto. Ayuda a reconocer si un proyecto habrá de funcionarles o no. La gestión de calidad en Scrum se facilita mediante tres actividades interrelacionadas:
 
-### Planificación de calidad
+### Planificación de Calidad
 Control de calidad
 Garantía de calidad
 Identificación de riesgo
@@ -192,22 +248,22 @@ Un impedimento es cualquier obstáculo o barrera que reduce la productividad del
 ### Inspección
 La inspección es el monitoreo necesario para seguir el control del proceso empírico para garantizar que los entregables del proyecto se ajusten a los requisitos.
 
-### Justificación continua de valor
+### Justificación continua de Valor
 La justificación continua de valor describe la evaluación con regularidad del valor del negocio para
 determinar si aún existe la justificación o viabilidad de la ejecución del proyecto.
 
-### Justificación del negocio
+### Justificación del Negocio
 La justificación del negocio demuestra las razones para emprender un proyecto. Responde a la pregunta:
 ¿Por qué es necesario este proyecto? La justificación del negocio guía todas las decisiones relacionadas a un proyecto.
 
-### Lecciones aprendidas del equipo Scrum
-Se espera que el equipo Scrum (equipo auto organizado y empoderado) aprenda de los errores cometidos durante el sprint y que estas lecciones aprendidas ayuden a mejorar su desempeño en futuros sprints.
+### Lecciones aprendidas del Equipo SCRUM
+Se espera que el equipo SCRUM (equipo auto organizado y empoderado) aprenda de los errores cometidos durante el sprint y que estas lecciones aprendidas ayuden a mejorar su desempeño en futuros sprints.
 
-### Lista de tareas de esfuerzo estimado
+### Lista de Tareas de esfuerzo estimado
 La lista de tareas del esfuerzo estimado es una lista de tareas relacionadas a las historias de usuario que se
 incluyen en un sprint. El esfuerzo estimado se expresa en términos de los criterios de estimación acordados por el equipo. El equipo Scrum utiliza lista de tareas del esfuerzo estimado durante las reuniones de planificación del sprint a fin de crear la lista del sprint y la gráfica de trabajo pendiente (Burndown Chart) del sprint.
 
-### Lista de tareas
+### Lista de Tareas
 Lista completa que contiene todas las tareas a las que se ha abocado el equipo Scrum en el actual sprint. Contiene descripciones de cada tarea.
 
 ### Lista priorizada de pendientes del producto (Prioritized Product Backlog)
