@@ -20,7 +20,7 @@ En este proceso, se identifican el __Scrum Master__ y los __Stakeholders__ utili
 En este proceso, se identifican a los miembros del Equipo SCRUM. Normalmente, el propietario del Producto es el responsable principal de la selección de los miembros del equipo, pero a menudo lo hace en colaboración con el Scrum Master.
 
 ## Desarrollo de las épicas
-En este proceso, la declaración de la Visión del Proyecto sirve como base para el desarrollo de las Epicas. Se pueden organizar User Group Meetings para discutir las Epicas que sean apropiadas.
+En este proceso, la declaración de la __Visión del Proyecto__ sirve como base para el desarrollo de las Epicas. Se pueden organizar User Group Meetings para discutir las Epicas que sean apropiadas.
 
 ## Creación de la lista priorizada de pendientes del producto
 En este proceso, se refinan, se elaboran y se priorizan las __Epicas__ para crear un __Prioritized Product Backlog__. En este punto también se establecen Los __Criterios de Terminación__.
