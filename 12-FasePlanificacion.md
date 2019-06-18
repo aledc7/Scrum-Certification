@@ -44,3 +44,6 @@
 ![Flujo de Datos](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/12/07%20-%20Flujo%20de%20Datos.png?raw=true)
 
 ![Roles SCRUM](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/12/rolesScrum.png?raw=true)
+
+
+[Go to Lesson -> 13](https://github.com/aledc7/Scrum-Certification/blob/master/13-Panificacion2.md)
