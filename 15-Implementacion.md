@@ -39,3 +39,5 @@ Los objetivos de la reunion de retrospectiva son:
 
 ![Flujo de Datos](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/15/07%20-%20FlujoDatos.png?raw=true) 
 
+
+[Go to Last Lesson -> 16](https://github.com/aledc7/Scrum-Certification/blob/master/16-Lanzamiento.md)
