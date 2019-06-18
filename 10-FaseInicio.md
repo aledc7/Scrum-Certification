@@ -7,18 +7,25 @@
 
 ## Fase de Inicio SCRUM
 
+![Fase de Inicio - Ciclo Completo](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/10/02%20-%20DesgloceProyecto.png?raw=true)
+
 
 
 ## Creación de la Visión del Proyecto
 En este proceso, se revisa el caso de Negocios es para crear un Declaración de la Visión del Proyecto que servirá de inspiración y proporcionará un enfoque de todo el proyecto.  
 El Propietario del producto se identifica en este proceso.
 
+![Fase de Inicio](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/10/01%20-%20FaseInicio.png?raw=true)
+
+
 ## Identificación del Scrum Master y los Stakeholders:
 En este proceso, se identifican el __Scrum Master__ y los __Stakeholders__ utilizando criterios de selección específicos.
 
+![Formacion de Equipo](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/10/03%20-%20Formacion%20de%20Equipos.png?raw=true)
 ## Formación del equipo de Scrum:
 En este proceso, se identifican a los miembros del Equipo SCRUM. Normalmente, el propietario del Producto es el responsable principal de la selección de los miembros del equipo, pero a menudo lo hace en colaboración con el Scrum Master.
 
+![Desarrollo de Epicas](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/10/04%20-%20Desarrollar%20las%20Epicas.png?raw=true)
 ## Desarrollo de las épicas
 En este proceso, la declaración de la __Visión del Proyecto__ sirve como base para el desarrollo de las Epicas. Se pueden organizar User Group Meetings para discutir las Epicas que sean apropiadas.
 
