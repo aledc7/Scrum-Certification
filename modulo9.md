@@ -59,3 +59,7 @@ ________________________________________________________________________________
 ## RESUMEN DE TODO EL PROCESO
 
 ![Resumen del Proceso](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/09/07%20-%20Procesos.png?raw=true)
+
+
+
+[Go to Lesson ->10](https://github.com/aledc7/Scrum-Certification/blob/master/10-FaseInicio.md)
