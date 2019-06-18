@@ -26,7 +26,7 @@ Entradas __HISTORIAS DE USUARIO__ -> Salidas __HISTORIAS DE USUARIO ESTIMADAS__
   - Se asignan las historias de usuario aprobadas por el PRODUCT OWNER a SPRINTS con una duracion maxima de 4 Semanas en base al esfuerzo requerido por cada Historia de Usuario y a la capacidad de trabajo del SCRUM TEAM.  
   
 
-Entradas __H.U ESTIMADAS__ -> Salidas __H.U COMPROMETIDAS__
+Entradas __Hisstorias de Usuario ESTIMADAS__ -> Salidas __Hisstorias de Usuario COMPROMETIDAS__
 
 
 
@@ -41,7 +41,7 @@ Ejemplo:
 - IDENTIFICAR TAREAS: 
   - Descomposición más fina de las historias de usuario a nivel de actividades [Construibles], un número determinado de actividades componen en conjunto el alcance de un SPRINT.
   
-Entradas __H.U COMPROMETIDAS__ -> Salidas __LISTA DE TAREAS -> SPRINT BACKLOG __
+Entradas __Hisstorias de Usuario COMPROMETIDAS__ -> Salidas __LISTA DE TAREAS -> SPRINT BACKLOG __
 
 - ESTIMAR TAREAS: 
   - Estimación de los recursos requeridos para cada tarea [Personal, tiempo].  
