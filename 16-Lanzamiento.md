@@ -34,3 +34,8 @@
   ![Flujo](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/16/06-Flujo.png?raw=true) 
   
   ![Flujo Fase](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/16/07%20-%20FlujoFase.png?raw=true) 
+  
+  # Fin del Curso de SCRUM
+  
+  
+  [Go to Home -> Start](https://github.com/aledc7/Scrum-Certification/blob/master/README.md)
