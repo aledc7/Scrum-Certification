@@ -40,3 +40,5 @@ En este proceso, se refinan, se elaboran y se priorizan las __Epicas__ para crea
 ## Realizar el Plan de Lanzamiento
 En este proceso, el Equipo Principal/Central de Scrum revisa las __Historias de Usuario__ en el __Prioritized Product Backlog__ para desarrollar un __Release Planning Schedule__, que es esencialmente un program (programa) de Implementación por fases que se compartirá con los __Stakeholders__ del Projecto. La Longitud del __Sprint__ también se determina en este proceso.
 ![Planificacion Lanzamiento](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/10/03%20-%20PlanificacionLanzamiento.png?raw=true)
+
+[Go to Lesson -> 11](https://github.com/aledc7/Scrum-Certification/blob/master/11-FaseInicio.md)
