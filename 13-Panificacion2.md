@@ -13,6 +13,24 @@
 Entradas __BACKLOG PRIORIZADO__ -> Salidas __HISTORIAS DE USUARIO__
 
 
+![Comprometer historias](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/13/01%20-%20comprometerHistorias.png?raw=true)
+
+![Flujo de Datos](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/13/02%20-%20FlujoDatos.png?raw=true)
+
+
+![Identificar Tareas](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/13/03%20-%20IdentificarTareas.png?raw=true)
+
+
+![Estimar Tareas](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/13/04%20-%20EstimarTareas.png?raw=true)
+
+
+![Sprint Backlog](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/13/05%20-%20Spring%20Backlog.png?raw=true)
+
+![Crear Spring Backlog ](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/13/06%20-%20CrearSpringBacklog.png?raw=true)
+
+![Sprint Backlog](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/13/07%20-%20CrearSpringBacklog.png?raw=true)
+
+![Flujo de Datos](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/13/08%20-%20FlujoDatos.png?raw=true)
 
 - ESTIMAR HISTORIAS DE USUARIO  
   - El PRODUCT OWNER aprueba las Historias de Usuario y su priorización 
