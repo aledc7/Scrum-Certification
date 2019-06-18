@@ -83,3 +83,5 @@ Entradas __LISTA DE TAREAS__ -> Salidas __SPRINT BACKLOG__
 4. Se detallan las historias de usuario asignadas a cada SPRINT a nivel de actividades.  
 5. Se hace seguimiento a cada actividad propuesta dentro del SPRINT BACKLOG diariamente.  
  
+
+[Go to Lesson -> 14](https://github.com/aledc7/Scrum-Certification/blob/master/14-Implementacion.md)
