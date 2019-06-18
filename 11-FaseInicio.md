@@ -28,7 +28,7 @@
 ______________________________________________________________________________________________________________
 
 
-El SCRUM MASTER, Se encarga de armar el equipo, que conozca y sienta los principios y valores de Agile, así como la teoría y prácticas de SCRUM, con el objetivo de que los usen en sus procesos de toma de decisiones.   
+El __SCRUM MASTER__, Se encarga de armar el equipo, que conozca y sienta los principios y valores de Agile, así como la teoría y prácticas de SCRUM, con el objetivo de que los usen en sus procesos de toma de decisiones.   
 El SCRUM Master actúa como facilitador de reuniones donde pensar de manera conjunta y quita los obstáculos más allá del equipo que le impiden ser ágil.
 
 De este modo, es el coach y lider al servicio del equipo, llevando a cabo las siguientes responsabilidades:
