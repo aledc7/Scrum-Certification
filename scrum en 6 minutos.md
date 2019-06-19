@@ -31,71 +31,67 @@ Scrum asegura __Transparencia en la Comunicación__.Crea un ambiente de __Respon
 
  
 
-El Marco de Scrum esta definido en la Guía SBOK
+El Marco de Scrum esta definido en la Guía [SBOK](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/scrumstudy-sbok-guide-3rd-edition-spanish_.pdf)
 
-
-
-El SBOK está estructurado en tal forma que soporta el desarrollo de productos y servicios en todo tipo de industrias y en cualquier tipo de proyecto, sin importar su complejidad.
-
+Ese SBOOK da un enfoque tal, que puede ser empleado para casi cualquier tipo de Proyectos complejos y simples
  
 
-PRINCIPIOS DE SCRUM
+## PRINCIPIOS DE SCRUM
 
-Ahora vamos a ver los 6 principios clave de SCRUM
+Estos son los seis Principios  de SCRUM, se describirá cada uno de ellos.
 
 1.     Control de Proceso Empírico
 
-2.     Auto-Organización
+2.     Auto organización
 
 3.     Colaboración
 
-4.     Priorización basada en valor
+4.     Priorización basada en Valor
 
-5.     Desarrollo iterativo
-
- 
-
-El primer principio de Scrum es
-
-“CONTROL DE PROCESO EMPIRICO”
-
-El cual esta basado en las ideas de
-
-·      Transparencia
-
-·      Inspección
-
-·      Adaptación
+5.     Desarrollo Iterativo
 
  
 
-Siguiente principio,
+Primer Principio:
 
- “AUTO-ORGANIZACION”
+## CONTROL DE PROCESO EMPIRICO
 
-Scrum esta diseñado para empleados de hoy
+El Control de Proceso Empirico se basa en las siguientes tres ideas como temática principal:
 
-Que tienen mucho mas que ofrecer que solo su conocimiento técnico.
+ - Transparencia  (todo debe ser compartido con el equipo)
 
-Y tu puedes entregar el mayor valor cuando se organizan por ellos mismos.
+ - Inspección     ( Auto inspecciones diarias para detectar cualquier inconveniente)
+
+ - Adaptación     (mejora y cámbio contínuo a fin de corregir desvios)
 
  
 
-EL tercer principio es
+Segundo Principio
 
- “COLABORACION”
+## AUTO-ORGANIZACION
 
-Que involucra que todos los INTERESADOS trabajando e interactuando juntos para entregar el mayor valor al cliente
+ - Scrum esta diseñado para empleados modernos    
+
+ -  Ellos saben que tienen mucho mas que ofrecer que solo su conocimiento Técnico.
+
+ -  Es mas efectivo y de mayor valor cuando los miembros del equipo se organizan por ellos mismos, dentro de su campo de acción.
+
+ 
+
+EL tercer principio es:
+
+## COLABORACION
+
+ - La metodología SCRUM propone involucrar a que todos los INTERESADOS trabajen e interactuen juntos,  para así entregar el mayor valor al Cliente. 
 
  
 
 Cuarto Principio 
 
-“PRIORIZACION BASADA EN VALOR”
+## PRIORIZACION BASADA EN VALOR
 
-Los requerimientos y sus tareas respectivas son priorizadas basadas en el valor que representan para el cliente.
-
-De esta manera, los requerimientos mas valiosos para el cliente se hacen primero, conduciendo a incrementar el Retorno de la Inversión.
+ - Cada Requerimiento y cada una de sus Tareas, son priorizadas basadas en el __Valor__ que representan para el Cliente.
+ - De esta manera, los Requerimientos mas valiosos para el Cliente se hacen primero, siendo los beneficios una satisfacción mayor por parte del cliente
 
  
 
