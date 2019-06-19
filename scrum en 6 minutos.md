@@ -1,34 +1,33 @@
-## Vamos a explicar en menos de 6 Minutos lo que SCRUM es
+## SCRUM - RESUMEN
 
-Un proyecto involucra ESFUERZO COLABORATIVO para crear un Nuevo Producto, Servicio u otro resultado
+Todos los Proyectos requieren __ESFUERZO COLABORATIVO__ para crear un Nuevo Producto, Servicio o cualquier otro resultado que sea digno de alcanzar.
 
-Esto es definido en el “Enunciado de Visión del Proyecto”
+Esto es definido en el  __Enunciado de Visión del Proyecto__
 
-Los proyectos son impactados por restricciones de Tiempo, Costo, Alcance. Calidad, Recursos, Capacidades organizacionales,  y otras limitantes que hacen difícil :
+Casi todos los Proyectos son afectados por restricciones de TIEMPO, COSTO, ALCANCE, CALIDAD, RECURSOS, CAPACIDADES ORGANIZACIONALES,  y otras limitantes que hacen difícil :
 
-·      Iniciar,
+- __Iniciar__
 
-·      Planificar y estimar,
+- __Planificar y Estimar__
 
-·      Implementar,
+- __Implementar__
 
-·      Revisar y hacer retrospección, y
+- __Revisar y hacer Retrospección__
 
-·      Liberar.
+- __Liberar__
 
- 
-
-Por lo tanto es importante para las organizaciones seleccionar y practicar una metodología de entrega de proyectos apropiada.
-
-¡ Aquí es donde entra SCRUM !
 
  
+Para resolver este panorama de una manera ágil, rápida y Ordenada, es que apacere __SCRUM__
+
+
 
 ¿Que es SCRUM?
 
-SCRUM es una de las metodologías AGILES mas populares
+SCRUM es una de las metodologías AGILES mas populares.
 
-Es una metodología adaptable, iterativa, Rápida, Flexible y efectiva. Diseñada para entregar valor significativo rápidamente y a través del todo el proyecto. Scrum asegura transparencia en la comunicación.Crea un ambiente de responsabilidad compartida y de progreso continuo
+Es una metodología Adaptable, Iterativa, Rápida, Flexible y Efectiva. Diseñada para entregar Valor Significativo rápidamente y a través del todo el proyecto.   
+Scrum asegura __Transparencia en la Comunicación__.Crea un ambiente de __Responsabilidad Compartida__ y de __Progreso Contínuo__.
 
  
 
