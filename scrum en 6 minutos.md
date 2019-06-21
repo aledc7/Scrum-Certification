@@ -236,7 +236,7 @@ Basados en 2 factores:
 
  
 
-El proceso de SCRUM
+# El proceso de SCRUM
 
 Vamos a conocer brevemente los procesos de SCRUM
 
