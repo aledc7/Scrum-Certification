@@ -86,7 +86,7 @@ EL tercer principio es:
 
  
 
-Cuarto Principio 
+Cuarto Principio: 
 
 ## PRIORIZACION BASADA EN VALOR
 
@@ -97,23 +97,22 @@ Cuarto Principio
 
 El Quinto principio es
 
- “TIEMPO DEFINIDO”
+## TIEMPO DEFINIDO
 
-El tiempo es el factor mas crucial en proyectos SCRUM y las juntas y periodos de trabajo tienen tiempo definido.
+ - El tiempo es el factor mas crucial en proyectos SCRUM y las juntas y periodos de trabajo tienen tiempo definido.
+ - La junta “Daily Standup”  es una junta de 15 minutos
+ - La duración de un SPRINT es limitada de acuerdo a las necesidades del proyecto, y puede variar entre 1 y 6 semanas.
 
-La junta “Daily Standup”  es una junta de 15 minutos
 
-La duración de un SPRINT es limitada de acuerdo a las necesidades del proyecto, y puede variar entre 1 y 6 semanas.
+El sexto y ultimo principio es:
 
-El sexto y ultimo principio es
+## DESARROLLO ITERATIVO
 
-“DESARROLLO ITERATIVO”
-
-El cual permite correcciones hasta que la gente involucrada tiene una mejor idea de Qué requerimientos van a ser cubiertos como parte del proyecto, e incorporan este aprendizaje de una manera iterativa.
+El cual permite correcciones hasta que la gente involucrada tiene una mejor idea de qué requerimientos van a ser cubiertos como parte del Proyecto, e incorporan este aprendizaje de una manera iterativa.
 
  
 
-Aspectos de SCRUM
+# Aspectos de SCRUM
 
 Ahora, vamos a ver los Aspectos de SCRUM
 
@@ -131,31 +130,33 @@ Ahora, vamos a ver los Aspectos de SCRUM
 
 Primer aspecto
 
-ORGANIZACIÓN
+## ORGANIZACIÓN
 
 Los roles de SCRUM vienen en 2 categorías: Roles Principales y Roles no Principales
 
-Los roles principales incluyen: 
+Los Roles Principales incluyen: 
 
-·      Product Owner,
+- Product Owner
 
-·      Scrum master, y
+- Scrum master
 
-·      Scrum Team
+- Scrum Team
 
-El product Owner
+## El product Owner
 
-Es responsable de clarificar y expresar los requerimientos del cliente y Mantener la justificación del Proyecto.
-
- 
-
-El Scrum master
-
-Quien se  asegura que el Scrum team tenga las condiciones  propicias para completar el proyecto exitosamente.
+Es responsable de clarificar y expresar los requerimientos del Cliente y Mantener la justificación del Proyecto.
 
  
 
-Y el Scrum Team
+# El Scrum Master
+
+Quien se  asegura que el SCRUM Team tenga las condiciones óptimas para completar el Proyecto de manera exitosa.
+
+ 
+
+Y el 
+
+## Scrum Team
 
 Quien es responsable de entender los requerimientos especificados por el Product Owner y de crear los entregables del proyecto.
 
@@ -163,75 +164,73 @@ Quien es responsable de entender los requerimientos especificados por el Product
 
 Los roles no principales incluyen
 
-·      Interesados o Stakeholders
+- Interesados o Stakeholders
 
-·      “Scrum Guidance Body”
+- Scrum Guidance Body
 
-·      “Vendors” o Proveedores
+- Vendors o Proveedores
 
-·      “Chief Product Owner”
+- Chief Product Owner
 
-·      “Chied Scrum Master”
+- Chied Scrum Master
 
  
 
 Segundo Aspecto
 
-JUSTIFICACION DE NEGOCIO
+## JUSTIFICACION DE NEGOCIO
 
-La entrega dirigida por valor,  permite que los proyectos de Scrum comiencen a entregar resultados tan pronto como sea posible.
+La entrega dirigida por valor,  permite que los Proyectos de Scrum comiencen a entregar resultados tan pronto como sea posible.
 
  
-
-La adaptabilidad de Scrum permite  que los objetivos del proyecto y procesos cambien si la justificación del proyecto cambia.
+La adaptabilidad de SCRUM permite  que los objetivos del Proyecto y procesos cambien si la justificación del proyecto cambia.
 
  
 
 Tercer Aspecto
 
-CALIDAD
+## CALIDAD
 
-En Scrum, la calidad es definida como la habilidad de los productos o entregables terminados, de cumplir con el Criterio de Aceptación,  y alcanzar el valor del negocio esperado por el cliente.
+En Scrum, la Calidad es definida como la __habilidad de los productos o entregables terminados, de cumplir con el Criterio de Aceptación__,  y alcanzar el valor del Negocio esperado por el Cliente.
 
  
 
-Para asegurar que un proyecto cumple con los requerimientos de calidad, Scrum adopta un enfoque de mejora continua, Donde el equipo aprende de los interesados experimentados e involucrados,  para mantener el “Product Backlog” priorizado y actualizado.
+Para asegurar que un proyecto cumple con los requerimientos de Calidad, SCRUM adopta un enfoque de mejora contínua, Donde el equipo aprende de los interesados experimentados e involucrados,  para mantener el “Product Backlog” priorizado y actualizado.
 
  
 
 Cuarto Aspecto
 
- CAMBIO
+## CAMBIO
 
-Los proyectos Scrum le dan la bienvenida a los cambios usando SPRINTS cortos e iterativos que incorporan la retroalimentación del cliente en cada entregable del SPRINT
+Los Proyectos SCRUM le dan la Bienvenida a los cámbios usando SPRINTS cortos e iterativos que incorporan la retroalimentación del cliente en cada entregable del SPRINT
 
 Esto permite al cliente:
 
-- INTERACTUAR regularmente con los miembros del equipo
+- INTERACTUAR regularmente con los miembros del Equipo
 
 - Ver los ENTRAGABLES tan pronto están listos
 
-Cambiar los REQUERIMIENTOS si es necesario al principio del SPRINT.
+- Cambiar los REQUERIMIENTOS si es necesario al principio del SPRINT.
 
  
 
 Quinto Aspecto
 
-RIESGO
+## RIESGO
 
-En los proyectos SCRUM los riesgos son
+En los proyectos SCRUM los riesgos son:
 
-Identificados,
-
-Evaluados, y
+ - Identificados
+ - Evaluados
 
 Se responde a ellos
 
 Basados en 2 factores:
 
-·      La PROBABILIDAD de ocurrencia de cada riesgo
+- La PROBABILIDAD de ocurrencia de cada riesgo.
 
-·      El posible IMPACTO de la ocurrencia
+- El posible IMPACTO de la ocurrencia
 
  
 
