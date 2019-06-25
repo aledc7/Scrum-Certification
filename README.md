@@ -11,11 +11,12 @@
 # Contenido de la Certificación
 
 
-  ## Introducción a SCRUM y metodologías ágiles
+  ## Introducción a SCRUM y Metodologías Ágiles
 - [x] 1.  Bienvenidos al Curso.  
 - [x] 2.  Conozcamos el Agilismo las Metodologias Agiles y SCRUM.  
 - [x] 3.  Historia de SCRUM y Porque elegir SCRUM.  
-  ## SCRUM como marco de trabajo para el desarrollo de Proyectos ágiles
+  
+  ## SCRUM como Marco de Trabajo para el Desarrollo de Proyectos Ágiles
   
 - [x] 4.  Los Principios, Aspectos, Fases y Procesos de SCRUM.  
 - [x] 5.  Flujo de Trabajo SCRUM.  
@@ -75,7 +76,7 @@ La certificación cuenta con estos libros en PDF
 
 
 
-## Que es Scrum
+## Que es SCRUM
 - Es un marco de trabajo que nos proporciona una serie de herramientas y roles para de forma iterativa poder ver el progreso y los resultados de un proyecto de forma temprana.     
 - Es un framework para la gestión de proyectos, adaptable, iterativo, rápido, flexible y eficaz.    
 - Diseñado para ofrecer un valor considerable de forma rápida a lo largo del proyecto.   
@@ -84,12 +85,12 @@ La certificación cuenta con estos libros en PDF
 
 
 
-## Historia scrum:
+## Historia SCRUM:
 1980 por: Hirotaka Takeuchi y Ikujiro Nonaka  
 Creado como un método holístico innovador.   
 Definido en una estrategia flexible e integral para el desarrollo de productos.   
 
-## ¿Por qué adoptar Scrum?  
+## ¿Por qué adoptar SCRUM?  
 Se adapta a cualquier tipo de desarrollo de producto/servicio:  
 - __Adaptabilidad:__ Control de procesos empíricos.   
 - __Transparencia:__ Todos son emisores y receptores de información. Todos saben lo que está pasando.   
@@ -110,7 +111,7 @@ Se adapta a cualquier tipo de desarrollo de producto/servicio:
 
 
 
-## Metodologías ágiles:
+## Metodologías Ágiles:
 
 - Ciclo de vida iterativo (por ciclos) e incremental: descomposición de objetivo final, en pequeñas porciones.
 - Entregar prototipos pequeños evolutivos.
