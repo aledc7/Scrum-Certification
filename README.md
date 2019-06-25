@@ -8,6 +8,58 @@
 
 
 
+# Contenido de la Certificación
+
+
+  ## Introducción a SCRUM y metodologías ágiles
+1.  Bienvenidos al Curso.  
+2.  Conozcamos el Agilismo las Metodologias Agiles y SCRUM.  
+3.  Historia de SCRUM y Porque elegir SCRUM.  
+  ## SCRUM como marco de trabajo para el desarrollo de Proyectos ágiles
+  
+4.  Los Principios, Aspectos, Fases y Procesos de SCRUM.  
+5.  Flujo de Trabajo SCRUM.  
+
+  ## Principios de SCRUM
+  
+6.  Los Principios de SCRUM.  
+7.  La Priorización basada en Valor, el Time-Boxing y el Desarrollo Iterativo.  
+8.  La Organizacion y los diferentes roles de SCRUM.  
+9.  La Comunicación del Equipo Central de SCRUM y Justificación de Negocio.  
+10. Calidad y Cámbios.  
+11. Los Riesgos.  
+12. Fases y Procesos de SCRUM.  
+
+  ## Fase de Inicio
+  
+13. Fase de Inicio - Creación de la visión de Proyecto e identificación del SCRUM Master y los Socios.  
+14. Fase de Inicio - Formación del Equipo SCRUM y Desarrollo de épicas.  
+15. Fase de Inicio - Creación de la lista priorizada del pendiente del producto y Planificación del Lanzamiento.  
+16. Fase de Inicio - Nuestro Proyecto, construir una Ciudad.  
+
+  ## Fase de Planificación y Estimación.
+  
+17. Fase de Planificacion - Crear Historias de Usuario - Planificar Historias de Usuario.
+18. Fase de Planificacion - Comprometer Historias de Usuario, Identificar Tareas, estimar Tareas, crear el Sprint Backlog.
+
+  ## Fase de Implementación
+  
+19. Fase de Implementación - Creación de Entregables, realizar el Daily Standup y refinar el Backlog Priorizado de Producto.  
+20. Fase de Implementación - Demostrar y validar el Sprint y Retrospectivva de Sprint.  
+
+  ## Fase de Lanzamiento  
+  
+  
+21. Fase de Lanzamiento - Envío de Entregables, Retrospectiva del Proyecto.  
+22. Glosario.  
+23. Taller de SCRUM  
+
+
+
+
+
+
+
 El propósito de este curso es ver SCRUM como un marco de trabajo aplicado a cualquier industria. Veremos los principios, aspectos y procesos de esta metodología ágil y cómo aplicarla a cualquier proyecto.
 
 ## Glosario:
