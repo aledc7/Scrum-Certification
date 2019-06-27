@@ -1,9 +1,63 @@
-# SCRUM Certification  
+# SCRUM [Certification](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/Certificado%20SCRUM%20-%20Alejandro%20De%20Castro.pdf)  
 
 [![aledc.com](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/aledc.com.svg)](https://aledc.com)
 [![License](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/mit-license.svg)](https://aledc.com)
 [![GitHub release](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/release.svg)](https://aledc.com)
 [![Dependencies](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/dependencias-none.svg)](https://aledc.com)
+
+
+
+# Contenido de la Certificación
+
+
+  ## Introducción a SCRUM y Metodologías Ágiles
+- [x] 1.  Bienvenidos al Curso.  
+- [x] 2.  Conozcamos el Agilismo las Metodologias Agiles y SCRUM.  
+- [x] 3.  Historia de SCRUM y Porque elegir SCRUM.  
+  
+  ## SCRUM como Marco de Trabajo para el Desarrollo de Proyectos Ágiles
+  
+- [x] 4.  Los Principios, Aspectos, Fases y Procesos de SCRUM.  
+- [x] 5.  Flujo de Trabajo SCRUM.  
+
+  ## Principios de SCRUM
+  
+- [x] 6.  Los Principios de SCRUM.  
+- [x] 7.  La Priorización basada en Valor, el Time-Boxing y el Desarrollo Iterativo.  
+- [x] 8.  La Organizacion y los diferentes roles de SCRUM.  
+- [x] 9.  La Comunicación del Equipo Central de SCRUM y Justificación de Negocio.  
+- [x] 10. Calidad y Cámbios.  
+- [x] 11. Los Riesgos.  
+- [x] 12. Fases y Procesos de SCRUM.  
+
+  ## Fase de Inicio
+  
+- [x] 13. Fase de Inicio - Creación de la visión de Proyecto e identificación del SCRUM Master y los Socios.  
+- [x] 14. Fase de Inicio - Formación del Equipo SCRUM y Desarrollo de épicas.  
+- [x] 15. Fase de Inicio - Creación de la lista priorizada del pendiente del producto y Planificación del Lanzamiento.  
+- [x] 16. Fase de Inicio - Nuestro Proyecto, construir una Ciudad.  
+
+  ## Fase de Planificación y Estimación.
+  
+- [x] 17. Fase de Planificacion - Crear Historias de Usuario - Planificar Historias de Usuario.
+- [x] 18. Fase de Planificacion - Comprometer Historias de Usuario, Identificar Tareas, estimar Tareas, crear el Sprint Backlog.
+
+  ## Fase de Implementación
+  
+- [x] 19. Fase de Implementación - Creación de Entregables, realizar el Daily Standup y refinar el Backlog Priorizado de Producto.  
+- [x] 20. Fase de Implementación - Demostrar y validar el Sprint y Retrospectivva de Sprint.  
+
+  ## Fase de Lanzamiento  
+  
+  
+- [x] 21. Fase de Lanzamiento - Envío de Entregables, Retrospectiva del Proyecto.  
+- [x] 22. Glosario.  
+- [x] 23. Taller de SCRUM  
+
+
+________________________________________________________________________________________________________________________
+
+## INICIO
 
 
 
@@ -21,7 +75,7 @@ La certificación cuenta con estos libros en PDF
 
 
 
-## Que es Scrum
+## Que es SCRUM
 - Es un marco de trabajo que nos proporciona una serie de herramientas y roles para de forma iterativa poder ver el progreso y los resultados de un proyecto de forma temprana.     
 - Es un framework para la gestión de proyectos, adaptable, iterativo, rápido, flexible y eficaz.    
 - Diseñado para ofrecer un valor considerable de forma rápida a lo largo del proyecto.   
@@ -30,12 +84,12 @@ La certificación cuenta con estos libros en PDF
 
 
 
-## Historia scrum:
+## Historia SCRUM:
 1980 por: Hirotaka Takeuchi y Ikujiro Nonaka  
 Creado como un método holístico innovador.   
 Definido en una estrategia flexible e integral para el desarrollo de productos.   
 
-## ¿Por qué adoptar Scrum?  
+## ¿Por qué adoptar SCRUM?  
 Se adapta a cualquier tipo de desarrollo de producto/servicio:  
 - __Adaptabilidad:__ Control de procesos empíricos.   
 - __Transparencia:__ Todos son emisores y receptores de información. Todos saben lo que está pasando.   
@@ -56,7 +110,7 @@ Se adapta a cualquier tipo de desarrollo de producto/servicio:
 
 
 
-## Metodologías ágiles:
+## Metodologías Ágiles:
 
 - Ciclo de vida iterativo (por ciclos) e incremental: descomposición de objetivo final, en pequeñas porciones.
 - Entregar prototipos pequeños evolutivos.
