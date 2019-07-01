@@ -1,6 +1,6 @@
 # SCRUM [Certification](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/Certificado%20SCRUM%20-%20Alejandro%20De%20Castro.pdf)  
 
-
+[![aledc.com](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/aledc.com.svg)](https://aledc.com)
 [![ingenea.com.ar](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/ingenea.svg)](http://ingenea.com.ar)
 [![License](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/mit-license.svg)](https://aledc.com)
 [![GitHub release](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/release.svg)](https://aledc.com)
@@ -122,6 +122,3 @@ Se adapta a cualquier tipo de desarrollo de producto/servicio:
 
 
 [ir al módulo 2 ->](https://github.com/aledc7/Scrum-Certification/blob/master/modulo2.md)
-
-
-[![aledc.com](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/aledc.com.svg)](https://aledc.com)
