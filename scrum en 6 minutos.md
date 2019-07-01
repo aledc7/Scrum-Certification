@@ -1,4 +1,10 @@
-## SCRUM - RESUMEN
+[![aledc.com](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/aledc.com.svg)](https://aledc.com)
+[![ingenea.com.ar](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/ingenea.svg)](http://ingenea.com.ar)
+[![License](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/mit-license.svg)](https://aledc.com)
+[![GitHub release](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/release.svg)](https://aledc.com)
+[![Dependencies](https://github.com/aledc7/Scrum-Certification/blob/master/recursos/dependencias-none.svg)](https://aledc.com)
+
+## SCRUM IN 6 MINUTES
 
 Todos los Proyectos requieren __ESFUERZO COLABORATIVO__ para crear un Nuevo Producto, Servicio o cualquier otro resultado que sea digno de alcanzar.
 
