@@ -11,7 +11,7 @@
 
 
 
-### Acuerdo de entregables funcionales
+### Acuerdo de Entregables Funcionales
 Los entregables que cumplen con los criterios de aceptación, reciben el cierre formal del negocio y la aprobación formal por parte del cliente o del patrocinador.
 
 ### Adaptación
@@ -20,19 +20,19 @@ La adaptación sucede cuando el equipo principal de Scrum y el (los) socio(s) (s
 ### Amenazas
 Las amenazas son riesgos que pudieran afectar el proyecto en forma negativa.
 
-### Análisis de brecha
+### Análisis de Brecha
 El análisis de brecha es una técnica que se utiliza para comparar el estado actual con el estado deseado y determinar la forma de acortar la brecha entre ambos.
 
-### Aprobación, estimación y asignación de historias de usuarios
+### Aprobación, Estimación y Asignación de Historias de Usuarios
 En este proceso, el propietario del producto aprueba las historias de usuario para un sprint. Después, el Scrum Master y el equipo Scrum calculan el esfuerzo necesario para desarrollar la funcionalidad descrita en cada historia de usuario. Por último, el equipo Scrum se aboca a entregar los requerimientos del cliente en forma de historias de usuario autorizadas, estimadas y asignadas.
 
-### Asignación de bloque de tiempo (Time-boxing)
+### Asignación de Bloque de Tiempo (Time-Boxing)
 La asignación de bloque de tiempo es la fijación de breves periodos para realizar el trabajo. Si el trabajo
 asumido permanece incompleto al final del bloque de tiempo, se traslada al subsecuente bloque. Los
 bloques de tiempo proporcionan la estructura necesaria para los proyectos Scrum, los cuales tienen un
 elemento de incertidumbre, son de naturaleza dinámica y son propensos a cambios frecuentes.
 
-### Auto organización
+### Auto Organización
 Scrum cree que los empleados son trabajadores auto motivados y buscan aceptar mayores
 responsabilidades. Por lo tanto, pueden ofrecer mucho más valor cuando se organizan por cuenta propia.
 
@@ -44,7 +44,7 @@ con los criterios de aceptación y lograr el valor del negocio que espera el cli
 El cliente es un individuo u organización que adquiere el producto del proyecto, servicio u otro resultado. En cualquier organización, dependiendo del proyecto, puede haber clientes internos (dentro de la misma
 organización) o clientes externos (fuera de la organización).
 
-### Control de calidad
+### Control de Calidad
 El control de calidad es la ejecución de las actividades de calidad planeadas por el equipo Scrum en el
 proceso de creación de entregables que la potencialidad de enviarse. Incluye también el aprendizaje de
 cada serie de actividades realizadas a fin de lograr una mejora continua.
@@ -53,25 +53,25 @@ cada serie de actividades realizadas a fin de lograr una mejora continua.
 En Scrum, la colaboración describe el trabajo conjunto del equipo principal de Scrum con los socios a fin de crear y validar los entregables del proyecto para cumplir con las metas trazadas en la visión del proyecto.
 La colaboración se produce cuando los equipos trabajan en conjunto para aprender de los demás y aprovechar ese conocimiento para producir algo mejor.
 
-### Creación de entregables
+### Creación de Entregables
 La creación de entregables es el proceso en el cual el equipo Scrum trabaja en las tareas de la lista de
 pendientes del sprint para crear entregables del sprint.
 
-### Creación de la lista priorizada de pendientes del producto
+### Creación de la Lista Priorizada de Pendientes del Producto
 En este proceso se elaboran y se refinan las épicas dándoles después prioridad para crear una lista
 priorizada de pendientes del producto para el proyecto. Durante este proceso se establecen también los
 criterios de terminado.
 
-### Creación de la visión del proyecto
+### Creación de la Visión del Proyecto
 En este proceso, se revisa el caso de negocio del proyecto para crear la declaración de visión del proyecto
 que servirá de inspiración y brindará un enfoque para la totalidad del proyecto. Durante este proceso se
 identifica al propietario del producto.
 
-### Creación de la lista de pendientes del sprint
+### Creación de la Lista de Pendientes del Pprint
 En este proceso, el equipo principal de Scrum lleva a cabo reuniones de planificación del sprint donde el
 grupo crea una lista de pendientes del sprint y se incluyen todas las tareas a realizar durante el mismo.
 
-### Creación de tareas
+### Creación de Tareas
 En este proceso, las historias aprobadas, estimadas y asignadas se dividen en tareas específicas y se
 compilan en una lista de tareas. Para tales efectos, generalmente se lleva a cabo una reunión de
 planificación de tareas.
@@ -132,78 +132,78 @@ ________________________________________________________________________________
 Se denomina Epic a una __Historia de Usuario__ que por su __Gran Tamaño__, el equipo descompone en historias con un tamaño más adecuado para ser gestionada con los principios y técnicas ágiles: estimación y seguimiento cercano (normalmente diario).
 
 
-## Creación de historias de usuario
+## Creación de Historias de Usuario
 En este proceso se crean las historias de usuario y sus respectivos criterios de aceptación. Las historias de
 usuario generalmente las redacta el propietario del producto y están diseñadas para garantizar que los
 requerimientos del cliente estén claramente representados y puedan ser plenamente comprendidos por
 todos los socios.
 
-### Criterios de terminado
+### Criterios de Terminado
 Los criterios de terminado son el conjunto de reglas que aplican a todas las historias de usuario. Una
 definición clara del ―terminado‖ es crítica, ya que elimina la ambigüedad de los requisitos y ayuda a que el equipo se apegue a las normas obligatorias de calidad. Esta clara definición se utiliza para crear los criterios de terminado (una de las salidas del proceso de Creación de la lista priorizada de pendientes del producto).
 Una historia de usuario se considera terminada cuando se demuestra al propietario del producto para su
 aprobación; después la califica con base en los criterios de terminado y los criterios de aceptación de la
 historia de usuario.
 
-### Criterios de estimación
+### Criterios de Estimación
 El objetivo principal del uso de los criterios de estimación es mantener los tamaños relativos de estimación y minimizar la necesidad de volver a realizar el cálculo. Los criterios de estimación se pueden expresar de muchas formas. Dos ejemplos comunes son: puntos de historia y tiempo ideal.
 
-Criterios mínimos de aceptación
+### Criterios Mínimos de Aceptación
 Los criterios mínimos de aceptación son declarados por la unidad empresarial. Después se convierten en
 parte de los criterios de aceptación para cualquier historia de usuario para dicha unidad empresarial.
 Cualquier funcionalidad definida por la unidad empresarial debe satisfacer dichos criterios mínimos de
 aceptación si busca ser aceptada por el propietario del producto.
 
-### Criterios de aceptación de historias de usuario
-Cada historia de usuario tiene sus criterios de aceptación. Las historias de usuario son subjetivas, por lo
+### Criterios de Aceptación de Historias de Usuario
+Cada historia de Usuario tiene sus criterios de Aceptación. Las historias de usuario son subjetivas, por lo
 que los criterios de aceptación proporcionan la objetividad requerida para que la historia de usuario sea
 considerada como terminada o no terminada durante la revisión del sprint, dando claridad al equipo sobre lo que se espera de una historia de usuario.
 
-### Comunicación de riesgo
+### Comunicación de Riesgo
 La comunicación de riesgo implica la comunicación de los resultados de los primeros cuatros pasos de la
 gestión de riesgos a los socios apropiados y determinar su percepción respecto a eventos inciertos.
 
-### Contenido del lanzamiento
+### Contenido del Lanzamiento
 Consiste en la información esencial sobre los entregables que puede ayudar al equipo de atención al
 cliente.
 
-### Control del proceso empírico
+### Control del Proceso Empírico
 Un modelo de control de proceso empírico ayuda a tomar decisiones basadas en la observación y en la
 experimentación en vez de la planificación inicial detallada. Se base en las tres principales ideas de
 transparencia, inspección y adaptación.
 
-### Declaración de la visión del proyecto
+### Declaración de la Visión del Proyecto
 El resultado clave del proceso de creación de la visión del proyecto es una declaración bien estructurada de la declaración de la visión del proyecto. Una buena visión del proyecto explica las necesidades
 empresariales, así como lo que el proyecto busca cumplir en vez de cómo habrá de satisfacer la necesidad.
 
-### Demostración y validación del sprint
+### Demostración y Validación del Sprint
 En este proceso, el equipo Scrum demuestra los entregables del Sprint al propietario del producto y a los
 socios relevantes durante una reunión de revisión del sprint.
 
-### Desarrollo de épicas
+### Desarrollo de Épicas
 En este proceso, la declaración de visión del proyecto funge como la base para el desarrollo de épicas. Se pueden llevar a cabo reuniones de grupos de usuario para el desarrollo de épicas.
 
-### Desarrollo iterativo
+### Desarrollo Iterativo
 El desarrollo iterativo es la entrega gradual de valor al cliente.
 
-### Deuda técnica
+### Deuda Técnica
 La deuda técnica (conocida también como deuda de diseño o deuda de código) es el trabajo al que los
 equipos dan menor prioridad; el trabajo que omiten o que no terminan a medida que trabajan en la creación de los principales entregables asociados al producto del proyecto. La deuda técnica se acumula y se debe saldar a futuro.
 
-### Elementos de acción asignados y fechas de entrega
+### Elementos de Acción Asignados y Fechas de Entrega
 Una vez que se han elaborado y refinado los elementos de acción asignados y las fechas límite, el equipo Scrum puede considerar los puntos de acción para implementar las mejoras. Cada elemento de acción contará con una fecha límite de conclusión.
 
-### Entregables aceptados (Accepted Deliverables)
+### Entregables Aceptados (Accepted Deliverables)
 Los entregables que cumplen con los criterios de aceptación de las historias de usuario son aceptados por el propietario del producto. Se consideran entregables aceptados que pueden distribuirse al cliente si así lo desea.
 
-### Entregables funcionales (Working Deliverables)
+### Entregables Funcionales (Working Deliverables)
 Esta salida es el entregable final para enviar (del inglés: shippable deliverable) para el que fue sancionado el proyecto.
 
-### Entregables del sprint (Sprint Deliverables)
+### Entregables del Sprint (Sprint Deliverables)
 Los entregables del sprint son los incrementos del producto o los entregables que se terminan al final de
 cada sprint.
 
-### Envío de entregables
+### Envío de Entregables
 En este proceso, los entregables aceptados se envían o se pasan a los socios pertinentes. Un acuerdo
 formal de los entregables funcionales documenta la conclusión satisfactoria del sprint.
 
@@ -215,19 +215,19 @@ requerimientos y descripciones del mismo. Son historias de usuario amplias y sin
 ### Equipo Scrum
 El equipo Scrum es uno de los roles del equipo principal de Scrum. El equipo Scrum trabaja en la creación de entregables del proyecto y contribuye a la realización del valor del negocio para todos los socios y del proyecto.
 
-### Estudio de mercado
+### Estudio de Mercado
 El estudio de mercado es el proceso organizado de investigar, recopilar, cotejar y analizar la información
 relacionada a las preferencias del cliente respecto a los productos. Generalmente incluye extensos datos
 sobre tendencias del mercado, segmentación del mercado y procesos de comercialización.
 
-### Fase de implementación
+### Fase de Implementación
 La fase de implementación incluye los procesos relacionados con la ejecución de las tareas y actividades
 para crear un producto de un proyecto.
 
-### Fase inicial
+### Fase Inicial
 Esta fase se compone de los procesos relacionados a la iniciación de un proyecto: Creación de la visión del producto, identificación del Scrum Master y socios, formación del equipo Scrum, desarrollo de épica(s), creación de la lista priorizada de pendientes del producto y realizar la planificación del lanzamiento.
 
-### Fase de planificación y estimación
+### Fase de Planificación y Estimación
 La fase de planificación y estimación se compone de los procesos relacionados a la planificación y
 estimación de tareas, que incluyen: la creación de historias de usuario, aprobación, estimación y asignación de historias de usuario, creación de tareas, estimación de tareas y creación de la lista de pendientes del sprint.
 
@@ -257,7 +257,7 @@ Un impedimento es cualquier obstáculo o barrera que reduce la productividad del
 ### Inspección
 La inspección es el monitoreo necesario para seguir el control del proceso empírico para garantizar que los entregables del proyecto se ajusten a los requisitos.
 
-### Justificación continua de Valor
+### Justificación Contínua de Valor
 La justificación continua de valor describe la evaluación con regularidad del valor del negocio para
 determinar si aún existe la justificación o viabilidad de la ejecución del proyecto.
 
@@ -265,36 +265,36 @@ determinar si aún existe la justificación o viabilidad de la ejecución del pr
 La justificación del negocio demuestra las razones para emprender un proyecto. Responde a la pregunta:
 ¿Por qué es necesario este proyecto? La justificación del negocio guía todas las decisiones relacionadas a un proyecto.
 
-### Lecciones aprendidas del Equipo SCRUM
+### Lecciones Aprendidas del Equipo SCRUM
 Se espera que el equipo SCRUM (equipo auto organizado y empoderado) aprenda de los errores cometidos durante el sprint y que estas lecciones aprendidas ayuden a mejorar su desempeño en futuros sprints.
 
-### Lista de Tareas de esfuerzo estimado
+### Lista de Tareas de Esfuerzo Estimado
 La lista de tareas del esfuerzo estimado es una lista de tareas relacionadas a las historias de usuario que se
 incluyen en un sprint. El esfuerzo estimado se expresa en términos de los criterios de estimación acordados por el equipo. El equipo Scrum utiliza lista de tareas del esfuerzo estimado durante las reuniones de planificación del sprint a fin de crear la lista del sprint y la gráfica de trabajo pendiente (Burndown Chart) del sprint.
 
 ### Lista de Tareas
 Lista completa que contiene todas las tareas a las que se ha abocado el equipo Scrum en el actual sprint. Contiene descripciones de cada tarea.
 
-### Lista priorizada de pendientes del producto (Prioritized Product Backlog)
+### Lista Priorizada de Pendientes del Producto (Prioritized Product Backlog)
 La lista priorizada de pendientes del producto (del inglés: Prioritized Product Backlog) es un solo documento de requisitos que define el ámbito del proyecto, proporcionando una lista de priorizada de las características del producto o servicio que habrá de entregar el proyecto.
 
-### Lista de pendientes del sprint (Sprint Backlog)
+### Lista de Pendientes del Sprint (Sprint Backlog)
 La lista de pendientes del sprint es una lista de tareas a ser ejecutadas por el equipo Scrum en el próximo sprint.
 
-### Mantenimiento de la lista priorizada de pendientes del producto
+### Mantenimiento de la Lista Priorizada de Pendientes del Producto
 El mantenimiento de la lista priorizada de pendientes del producto es un proceso en el cual se mantiene y actualiza constantemente la lista priorizada de pendientes del producto.
 
-### Mejoras accionables aceptadas (Agreed Actionable Improvements)
+### Mejoras Accionables Aceptadas (Agreed Actionable Improvements)
 Las mejoras accionables aceptadas (del inglés: Agreed Actionable Improvements) son los resultados primarios del proceso de retrospectiva del sprint. Forman parte de la lista de elementos accionables que ha elaborado el equipo para hacer frente a los problemas y mejorar los procesos a fin de mejorar también su desempeño en futuros sprints.
 
-### Mejora continua
+### Mejora Contínua
 La mejora continua es un enfoque de Scrum en el cual el equipo aprende de las experiencias y de la
 participación de los socios para mantener constantemente actualizada la lista priorizada de pendientes del producto con cualquier cambio en los requisitos.
 
-### Necesidades del negocio
+### Necesidades del Negocio
 Las necesidades del negocio son aquellos resultados del negocio que se espera que cumpla el proyecto, tal como se documenta en la declaración de visión del proyecto.
 
-### Número de historias
+### Número de Historias
 El término número de historias se refiere a la cantidad de historias de usuario que se entregan como parte de un solo sprint. Se puede expresar en términos de conteo simple o conteo ponderado.
 
 ### Oportunidades
@@ -304,15 +304,15 @@ oportunidades.
 ### Patrocinador (Sponsor)
 El patrocinador es la persona o la organización que provee recursos y apoyos al proyecto. El patrocinador es también es el socio a quien todos rinden cuentas al final.
 
-### Priorización basada en el valor que se entrega al cliente
+### Priorización Basada en el Valor que se Entrega al Cliente
 La priorización basada en el valor que se entrega al cliente le da importancia primordial al cliente y se
 esfuerza primero en implementar las historias de usuario con más alto valor. Dichas historias de usuario de alto valor se identifican y se colocan en la parte superior de la lista priorizada de pendientes del producto.
 
-### Proceso de estimación de tareas
+### Proceso de Estimación de Tareas
 En este proceso, el equipo principal de Scrum, en un taller de estimación de tareas, calcula el esfuerzo
 necesario para lograr cada tarea en la lista. El resultado de este proceso es una lista de tareas de esfuerzo estimado.
 
-### Proceso de identificación del Scrum Master y los socios
+### Proceso de Identificación del Scrum Master y los Socios
 En este proceso se identifican el Scrum Master y los socios mediante el uso de criterios de selección
 específicos.
 
@@ -332,7 +332,7 @@ La priorización puede definirse como la determinación del orden de las cosas y
 ### Producto
 El término ―producto‖ en la Guía SBOKTM, puede referirse a un producto, servicio o cualquier otro entregable que brinde valor al cliente.
 
-### Propietario del producto (Product Owner)
+### Propietario del Producto (Product Owner)
 El propietario del producto es la persona responsable de maximizar el valor del negocio para el proyecto. Es la persona responsable de articular los requerimientos del cliente y mantener la justificación del negocio para el proyecto.
 
 ### Programa
@@ -343,32 +343,33 @@ Un proyecto es un negocio colaborativo para crear, ya sea nuevos proyectos o ser
 resultados según se define en la declaración de visión del proyecto. Los proyectos generalmente se ven
 afectados por limitaciones en el tiempo, costos, enfoque, calidad, personas y capacidades organizacionales.
 
-### Planificación de calidad
+### Planificación de Calidad
 La planificación de calidad es la identificación y definición del proyecto requerido de un Sprint y del
 proyecto, así como los criterios de aceptación, cualquier método de desarrollo a seguir y las
 responsabilidades clave de los miembros del equipo Scrum en relación a la calidad.
 
-### Requerimientos del negocio
+### Requerimientos del Negocio
 Los requerimientos del negocio definen lo que debe ser entregado para cumplir con las necesidades del negocio y brindarles valor a los socios. La suma de toda la información obtenida mediante las distintas herramientas tales como entrevistas con el usuario o el cliente, cuestionarios, sesiones de diseño de aplicación conjunta (JAD, por sus siglas en inglés), análisis de brecha, análisis FODA y demás sesiones, ayudan a obtener una mejor perspectiva sobre los requerimientos empresariales y en la creación de la lista priorizada de pendientes del producto.
 
-### Realizar reunión diaria de pie (Conduct Daily Standup)
+### Realizar Reunión Diaria de Pie (Conduct Daily Standup)
 Es un proceso en donde se realiza diariamente una reunión muy enfocada con un bloque de tiempo
 asignado. A esta reunión se le conoce como reunión diaria de pie (Daily Standup Meeting), y es un foro que les permite a los miembros del equipo Scrum ponerse al día sobre sus progresos y sobre cualquier impedimento que pudieran estar enfrentando.
 
-### Realizar planificación del lanzamiento
+### Realizar Planificación del Lanzamiento
 En este proceso, el equipo principal de Scrum revisa las historias de usuario de alto nivel en la lista
 priorizada de pendientes del producto para desarrollar un programa de planificación del lanzamiento, que
 esencialmente es un programa de implementación por fases que se puede compartir con el (los) socio(s).
 Durante este proceso, también se determina la duración de los sprints.
 
-### Reunión diaria de pie (Daily Standup Meeting)
+### Reunión Diaria de Pie (Daily Standup Meeting)
 La reunión diaria de pie es una breve reunión diaria. Tiene un bloque de tiempo asignado de 15 minutos.
 Los miembros del equipo se reúnen para dar un informe sobre sus progresos y contestar las siguientes tres preguntas:
 
-¿Qué terminé ayer?
-¿Qué terminaré hoy?
-¿Qué impedimentos u obstáculos (si los hubiera) estoy enfrentando en la actualidad?
-Reunión de planificación del sprint
+  - ¿Qué terminé ayer?
+  - ¿Qué terminaré hoy?
+  - ¿Qué impedimentos u obstáculos (si los hubiera) estoy enfrentando en la actualidad?
+
+### Reunión de Planificación del Sprint
 La reunión de planificación del sprint se lleva a cabo al inicio de un sprint como parte del proceso de
 creación de la lista de pendientes del sprint. Tiene un bloque de tiempo asignado de ocho horas por un
 sprint de un mes y se divide en dos partes: definición del objetivo y estimación de tareas.
@@ -378,7 +379,7 @@ La reunión de Scrum de Scrums es una reunión importante en el escalamiento de 
 proyectos y al cual asisten los representantes de todos los equipos. Dicha reunión es generalmente
 facilitada por el jefe Scrum Master y su objetivo es enfocarse en áreas de coordinación e integración entre los distintos equipos de Scrum. Esta reunión se lleva a cabo en intervalos predeterminados o cuando lo requieran los equipos de Scrum.
 
-### Retrospectiva del proyecto
+### Retrospectiva del Proyecto
 En este proceso, que concluye el proyecto, los socios de la organización y los miembros del equipo
 principal de Scrum se reúnen para hacer una retrospectiva del proyecto e identificar, documentar e
 internalizar las lecciones aprendidas. A menudo, estas lecciones llevan a la documentación de mejoras
@@ -393,15 +394,15 @@ El riesgo se define como un evento incierto o un conjunto de eventos que pueden 
 ### Riesgos
 Los riesgos incluyen cualquier evento incierto o no planificado que pudiera afectar positiva o negativamente el proyecto.
 
-### Riesgos mitigados
+### Riesgos Mitigados
 Los riesgos mitigados son aquellos que se tratan o mitigan con éxito por el equipo Scrum durante el
 proyecto.
 
-### Rol no central
+### Rol No Central
 Los roles no centrales son los que no son obligatoriamente necesarios para el proyecto Scrum. Estos
 pueden incluir a miembros de los equipos que estén interesados en el proyecto, que no tienen ningún papel formal en el equipo del proyecto, y pueden interactuar con el equipo, pero pueden no ser responsables del éxito del proyecto.
 
-### Ritmo sostenible (Sustainable Pace)
+### Ritmo Sostenible (Sustainable Pace)
 El ritmo sostenible es el ritmo al cual el equipo puede trabajar y sostener cómodamente. Esto se traduce en una mayor satisfacción de los empleados, la estabilidad y el aumento de la precisión de la estimación; todo lo cual en última instancia conduce a una mayor satisfacción del cliente.
 
 ### Segmentación (Decomposition)
@@ -411,13 +412,13 @@ en tareas. Las historias de usuario de la lista priorizada de pendientes del pro
 suficientemente segmentadas a un nivel que le brinde al equipo Scrum la información adecuada para crear
 entregables a partir de las tareas mencionadas en la lista de tareas.
 
-### Solicitudes de cambio aprobadas
+### Solicitudes de Cámbio Aprobadas
 Las solicitudes de cambios aprobadas son los cambios que han sido aprobados para incluirse en la lista priorizada de pendientes del producto. En ocasiones, las solicitudes de cambio aprobadas pueden presentarlos los gerentes del programa o de la cartera, y serían entradas que se añadirán a la lista de cambios autorizados del proyecto para su implementación en futuros sprints.
 
-### Solicitud de cambio
+### Solicitud de Cámbio
 Las peticiones para realizar cambios generalmente se presentan como solicitudes de cambio. Dichas solicitudes permanecen como no aprobadas has que se autorizan formalmente.   
 
-### Solicitudes de cambio no aprobadas
+### Solicitudes de Cámbio No Aprobadas
 Las peticiones de cambio se presentan por lo general como solicitudes de cambio. Estas permanecen no
 aprobadas hasta que se autorizan formalmente.   
 
@@ -435,7 +436,7 @@ Un sprint es una iteración con un bloque de tiempo asignado de una a seis seman
 ### Socio(s) (Stakeholder[s])
 Socio (del inglés: stakeholder) es un término colectivo que incluye a clientes, usuarios y patrocinadores que interactúan frecuentemente con el propietario del producto, con el Scrum Master y con el equipo Scrum para brindar opiniones y facilitar la creación del producto del proyecto, servicio u otros resultados.
 
-### Tres preguntas diarias
+### Tres Preguntas Diarias
 Las tres preguntas diarias se utilizan en las reuniones diarias de pie, organizadas por el Scrum Master,
 donde cada miembro del equipo Scrum brinda información en forma de respuesta a tres preguntas
 específicas:   
@@ -456,7 +457,7 @@ usuarios internos y como externos. En algunos casos, los clientes y los usuarios
 ### Vendedor
 Los vendedores son individuos externos u organizaciones que ofrecen productos y servicios que no están dentro de las competencias básicas de la organización del proyecto.
 
-### Voz del cliente (Voice of the Customer)
+### Voz del Cliente (Voice of the Customer)
 A la voz del cliente se le puede conocer como los requerimientos explícitos e implícitos del cliente que se
 deben entender antes de diseñar un producto o servicio. El propietario del producto representa la voz del
 cliente.
