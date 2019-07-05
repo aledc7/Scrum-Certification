@@ -77,7 +77,7 @@ compilan en una lista de tareas. Para tales efectos, generalmente se lleva a cab
 planificación de tareas.
 
 
-## Historias de Usuariio
+### Historias de Usuariio
 
 Descripción de una funcionalidad que debe incorporar un Sistema de Software, y cuya implementación aporta valor al cliente.
 La estructura de una historia de usuario está formada por:
@@ -99,27 +99,27 @@ En 2003 Bill Wake desarrolló un método llamado __INVEST__ para asegurar la Cal
  S - Small (pequeña)
  T - Testable (comprobable)
 
-## Independent (independiente)
+### Independent (independiente)
 
 Es ventajoso que cada Historia de Usuario pueda ser planificada e implementada en cualquier orden. Para ello las historias deberían de ser totalmente independientes (lo cual facilita el trabajo posterior del equipo). Resaltar que las dependencias entre historias de usuario pueden reducirse combinándolas en una o dividiéndolas de manera diferente.
 
-## Negotiable (negociable)
+### Negotiable (negociable)
 
 Una historia de usuario es una descripción corta de una necesidad que no incluye detalles. Las historias deben ser negociables ya que sus detalles serán acordados con el cliente o el usuario durante la fase de conversación. Por tanto, se debe evitar historias de usuario con demasiados detalles porque limitaría la conversación acerca de las mismas.
 
-## Valuable (valiosa)
+### Valuable (valiosa)
 
 Una historia de usuario tiene que ser valiosa para el cliente o el usuario. Una manera de hacer una historia valiosa es que la escriba el mismo.
 
-## Estimable (estimable)
+### Estimable (estimable)
 
 Una buena historia de usuario debe de poder ser estimada con la precisión suficiente para ayudar al cliente, usuario o propietario del producto a priorizar y planificar su implementación. La estimación generalmente la realizará el equipo de trabajo y está directamente relacionada con el tamaño de la historia de usuario (una historia de usuario de gran tamaño es más difícil de estimar) y con el conocimiento del equipo de la necesidad expresada (en el caso de falta de conocimiento, serán necesarias mas fases de conversación acerca de la misma).
 
-## Small (pequeña)
+### Small (pequeña)
 
 Las historias de usuario deberían englobar como mucho unas pocas semanas/persona de trabajo. Incluso hay equipos que las restringen a días/persona. Una descripción corta ayuda a disminuir el tamaño de una historia de usuario facilitando así su estimación.
 
-## Testable (comprobable)
+### Testable (comprobable)
 
 La historia de usuario debería ser capaz de ser probada (fase confirmación de la historia de usuario). Si el cliente o usuario no sabe como probar la historia de usuario significa que no es del todo clara o que no es valiosa. Si el equipo no puede probar una historia de usuario nunca sabrá si la ha terminado o no.
 
@@ -127,12 +127,12 @@ ________________________________________________________________________________
 
 
 
-## Epicas
+### Epicas
 
 Se denomina Epic a una __Historia de Usuario__ que por su __Gran Tamaño__, el equipo descompone en historias con un tamaño más adecuado para ser gestionada con los principios y técnicas ágiles: estimación y seguimiento cercano (normalmente diario).
 
 
-## Creación de Historias de Usuario
+### Creación de Historias de Usuario
 En este proceso se crean las historias de usuario y sus respectivos criterios de aceptación. Las historias de
 usuario generalmente las redacta el propietario del producto y están diseñadas para garantizar que los
 requerimientos del cliente estén claramente representados y puedan ser plenamente comprendidos por
