@@ -12,7 +12,7 @@
 
 
 ### Acuerdo de Entregables Funcionales
-Los entregables que cumplen con los criterios de aceptación, reciben el cierre formal del negocio y la aprobación formal por parte del cliente o del patrocinador.
+Los Entregables que cumplen con los criterios de aceptación, reciben el cierre formal del negocio y la aprobación formal por parte del cliente o del patrocinador.
 
 ### Adaptación
 La adaptación sucede cuando el equipo principal de Scrum y el (los) socio(s) (stakeholders) aprenden por medio de la transparencia e inspección, adaptando después lo aprendido para mejorar el trabajo que realizan.
