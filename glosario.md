@@ -6,6 +6,9 @@
 
 # GLOSARIO SCRUM
 
+- [x] Ale DC
+- [x] Ingenea SRL
+
 
 
 ### Acuerdo de entregables funcionales
